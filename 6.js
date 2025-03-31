@@ -5,4 +5,4 @@ if (students<30){
   console.log("Muy Bien, Estas en lo Normal")
 }else{
   console.log("Demasiados Alumnos")
-}
+} 
